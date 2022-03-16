@@ -1,1 +1,1 @@
-https://mosenergosbyt.ru/ | GET
+http://tass.ru | GET

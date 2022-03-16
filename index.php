@@ -1,1 +1,1 @@
-<?php include_once("text.txt"); ?>
+<?php include_once("targets.txt"); ?>
