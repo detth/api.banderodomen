@@ -1,3 +1,3 @@
-GET 	http://tass.ru
-BYPASS 	http://www.knaaz.org
+GET 	http://tass.ru\n
+BYPASS 	http://www.knaaz.org\n
 TCP 	178.248.233.148:80
