@@ -1,1 +1,3 @@
-https://mosenergosbyt.ru/ | GET
+GET 	http://tass.ru
+BYPASS 	http://www.knaaz.org
+TCP 	178.248.233.148:80
